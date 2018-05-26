@@ -1,0 +1,26 @@
+{
+  "name": "readwithyoucnwebapp",
+  "version": "1.0.0",
+  "description": "Node JS Webapp for Read With You CN Web Site",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon local.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/readwithyou/ReadWithYouCNWebapp.git"
+  },
+  "author": "readwithyou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/readwithyou/ReadWithYouCNWebapp/issues"
+  },
+  "homepage": "https://github.com/readwithyou/ReadWithYouCNWebapp#readme",
+  "dependencies": {
+    "express-react-views": "^0.10.5",
+    "nodemon": "^1.17.5",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0"
+  }
+}
